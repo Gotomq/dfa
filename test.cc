@@ -1,4 +1,4 @@
-#include "finite-state-machine/dfa.h"
+#include "dfa.h"
 
 using namespace std;
 
